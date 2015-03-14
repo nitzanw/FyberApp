@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FyberApp</string>
+    <string name="payout">Payout:</string>
+    <string name="no_offers">No offers</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
