@@ -6,6 +6,7 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  * Created by nitzanwerber on 3/11/15.
+ * Converts a string to SHA1
  */
 public class AeSimpleSHA1 {
     private static String convertToHex(byte[] data) {

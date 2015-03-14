@@ -6,6 +6,7 @@ import java.io.Serializable;
 
 /**
  * Created by nitzanwerber on 3/12/15.
+ * Response model from the api request that holds a list of offers
  */
 public class Response implements Serializable{
 
